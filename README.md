@@ -4,15 +4,15 @@ Dependency
 Java
 Maven
 
-###libraries used
+# libraries used
 Selenium
 TestNG
 log4j
-Extent Reports
+
 
 ### Steps to clone execute the tests
 ```
-git clone https://github.com/amitjd/EduvanzTest.git
+git clone https://github.com/amitjd/EduvanzTest
 cd EduvanzTest
 mvn clean test
 ```
