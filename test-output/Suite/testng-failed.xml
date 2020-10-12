@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.automationpractice.test.HomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUP"/>
+          <include name="LogniInCheck"/>
+          <include name="autoSuggestCheck"/>
+          <include name="signInLink"/>
+        </methods>
+      </class> <!-- com.automationpractice.test.HomePageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

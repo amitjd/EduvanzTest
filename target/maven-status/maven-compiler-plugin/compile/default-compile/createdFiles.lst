@@ -1,0 +1,9 @@
+com\automationpractice\pages\CheckoutPage.class
+com\automationpractice\pages\HomePage.class
+com\automationpractice\util\TestUtil.class
+com\automationpractice\pages\LoginPage.class
+com\automationpractice\util\WebEventListener.class
+com\automationpractice\ExtentReportListener\ExtentReporter.class
+com\automationpractice\base\TestBase.class
+com\automationpractice\pages\DetailPage.class
+com\automationpractice\pages\ResultPage.class
